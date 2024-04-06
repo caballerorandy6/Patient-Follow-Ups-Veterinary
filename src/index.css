@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.resize-textarea {
+  resize: none;
+  field-sizing: content;
+  max-height: 100px;
+}
